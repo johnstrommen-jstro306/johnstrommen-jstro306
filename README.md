@@ -25,7 +25,7 @@ A career platform that connects resume-to-job matching, tailored applications, p
 
 **The interesting challenge:** connecting multiple AI services to a coherent career journey and making application assistance useful across different employer systems.
 
-[Explore Second Summit](https://secondsummit.ai) · [Read the build story](https://pharettalabs.com/work/second-summit/)
+[Explore Second Summit](https://secondsummit.ai) · [Read the build story](https://pharettalabs.com/work/second-summit/) · [GitHub showcase](https://github.com/johnstrommen-jstro306/second-summit-showcase)
 
 ### <img src="bookward.png" width="32" height="32" alt=""> BookWard
 
@@ -35,7 +35,7 @@ A personalized reading app with editable AI Book Companions, recommendations, re
 
 **The interesting challenge:** combining book catalogs, resolving inconsistent editions and duplicates, and turning personal reading preferences into useful discovery.
 
-[Explore BookWard](https://bookward.ai) · [Read the build story](https://pharettalabs.com/work/bookward/) · [Monthly book rankings](https://bookward.ai/top-100-books/)
+[Explore BookWard](https://bookward.ai) · [Read the build story](https://pharettalabs.com/work/bookward/) · [GitHub showcase](https://github.com/johnstrommen-jstro306/bookward-showcase) · [Monthly book rankings](https://bookward.ai/top-100-books/)
 
 ### <img src="punch-list.png" width="32" height="32" alt=""> Punch List
 
@@ -45,7 +45,7 @@ A household task app that turns photos and forwarded emails into tasks, with sha
 
 **The interesting challenge:** bringing AI, email, calendars, and household sharing together while keeping everyday use simple.
 
-[Explore Punch List](https://mypunchlist.ai) · [Read the build story](https://pharettalabs.com/work/punch-list/)
+[Explore Punch List](https://mypunchlist.ai) · [Read the build story](https://pharettalabs.com/work/punch-list/) · [GitHub showcase](https://github.com/johnstrommen-jstro306/punch-list-showcase)
 
 ## Experience behind the builds
 
@@ -70,6 +70,10 @@ I hold a B.S. in Web & Digital Media Development and Business Administration fro
 | Growth | Technical SEO, structured data, indexation, content strategy, AI discovery, analytics, and conversion optimization |
 
 I use Codex and Claude Code in my development workflow, with hands-on product direction, review, and testing.
+
+## A small tool you can use
+
+[SEO Page Check](https://github.com/johnstrommen-jstro306/seo-page-check) is a dependency-free Python utility for inspecting saved HTML: metadata, canonicals, robots directives, image alt attributes, and JSON-LD syntax. It runs locally, includes tests, and is available under the MIT license.
 
 ## Work with me
 
